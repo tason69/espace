@@ -1,0 +1,12 @@
+footer{ 
+    display: none ;
+}
+.exo4{
+    display: none;
+}
+.navbar-brand{
+    opacity: 0;
+}
+button{
+    display: block;
+}
